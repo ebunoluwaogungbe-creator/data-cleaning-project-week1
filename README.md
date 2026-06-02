@@ -25,5 +25,5 @@ The dataset was successfully cleaned and prepared for further analysis.
 ## Files Included
 - Raw Dataset (Dataset for Data Analytics.xlsx)
 - Cleaned Dataset (Decodelabs.xlsx)
-- Data Cleaning Report (.docx)
+- Data Cleaning Report (Data Cleaning Report.docx)
 - Project Summary (.pdf)
