@@ -1,4 +1,4 @@
-# Week 1 Data Cleaning Project
+# Week 1 Data Cleaning Project(Excel)
 
 ## Project Overview
 This project focuses on cleaning a raw dataset using Excel and Power Query to prepare it for analysis.
