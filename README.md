@@ -24,7 +24,7 @@ The dataset was successfully cleaned and prepared for further analysis.
 
 ## Project Screenshot
 
-![data-cleaning-project-week1](Screenshot 2026-05-21 230924.png)
+![data-cleaning-project-week1](data-cleaning-project.png)
 
 
 
