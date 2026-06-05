@@ -21,9 +21,6 @@ This project focuses on cleaning a raw dataset using Excel and Power Query to pr
 
 ## Outcome
 The dataset was successfully cleaned and prepared for further analysis.
+Decodelabs.xlsx
 
-## Files Included
-- Raw Dataset (Dataset for Data Analytics.xlsx)
-- Cleaned Dataset (Decodelabs.xlsx)
-- Data Cleaning Report (Data Cleaning Report.docx)
 
