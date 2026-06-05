@@ -22,7 +22,9 @@ This project focuses on cleaning a raw dataset using Excel and Power Query to pr
 ## Outcome
 The dataset was successfully cleaned and prepared for further analysis.
 
-## Cleaned Dataset
+## Project Screenshot
+
+![Data Cleaning Project](Images/data-cleaning-screenshot.png)
 
 
 
