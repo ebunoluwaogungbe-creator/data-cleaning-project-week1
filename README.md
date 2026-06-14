@@ -26,5 +26,11 @@ The dataset was successfully cleaned and prepared for further analysis.
 
 ![data-cleaning-project-week1](data-cleaning-project.png)
 
+Prepared by: Ogungbe Ebunjah
+
+Program: DecodeLabs Data Analytics Internship Program
+
+Project: Week 1 – Data Cleaning
+
 
 
